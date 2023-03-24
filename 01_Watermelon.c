@@ -2,7 +2,6 @@
 int main()
 {
 int w;
-printf("Enter the number:");
 scanf("%d",&w);
 if(w==2 || w>100)
 {
