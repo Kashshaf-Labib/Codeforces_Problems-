@@ -1,1 +1,0 @@
-{"name":"Local: 279_","url":"d:\\Codeforces Problems\\279_.cpp","tests":[{"id":1672224927431,"input":"3\n3\n2 3 2\n2\n1 3\n3\n1000000 1000000 1\n","output":"28308\n8088\n2022000000004044\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces Problems\\279_.cpp","group":"local","local":true}

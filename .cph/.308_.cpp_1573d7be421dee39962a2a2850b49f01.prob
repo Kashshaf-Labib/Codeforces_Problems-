@@ -1,1 +1,0 @@
-{"name":"Local: 308_","url":"d:\\Codeforces Problems\\308_.cpp","tests":[{"id":1677233974837,"input":"10\na\nb\nc\nd\ne\nf\ng\nh\ni\nj\n","output":"NO\nNO\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces Problems\\308_.cpp","group":"local","local":true}
