@@ -1,1 +1,1 @@
-{"name":"Local: newA","url":"e:\\Codeforces Problems\\newA.cpp","tests":[],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces Problems\\newA.cpp","group":"local","local":true}
+{"name":"Local: newA","url":"e:\\Codeforces Problems\\newA.cpp","tests":[{"id":1715183826552,"input":"7\n10\n7\n21\n100\n2\n1000\n6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces Problems\\newA.cpp","group":"local","local":true}
