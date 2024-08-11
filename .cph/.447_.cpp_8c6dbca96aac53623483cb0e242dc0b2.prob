@@ -1,1 +1,0 @@
-{"name":"Local: 447_","url":"e:\\Codeforces Problems\\447_.cpp","tests":[{"id":1711654432083,"input":"5\n3\n...\n7\n##....#\n7\n..#.#..\n4\n####\n10\n#...#..#.#\n","output":"2\n2\n5\n0\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codeforces Problems\\447_.cpp","group":"local","local":true}
